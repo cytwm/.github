@@ -1,4 +1,4 @@
-## Hi there 👋
+# CyTWM (Cyna Tiling Window Manager)
 A Tiling Window Manager dedicated for beige and brown lovers!
 <!--
 
