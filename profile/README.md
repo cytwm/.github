@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+A Tiling Window Manager dedicated for beige and brown lovers!
 <!--
 
 **Here are some ideas to get you started:**
